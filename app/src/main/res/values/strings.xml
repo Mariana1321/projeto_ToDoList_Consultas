@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="label_new_task">Marca Consulta</string>
+    <string name="label_title">Nome do Cliente</string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_tasks">Agenda de Consultas</string>
+    <string name="label_description_new_task">Nova Consulta</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_you_dont_have_tasks">Ops! Você não possui \n nenhuma consulta marcada para hoje</string>
+    <string name="label_number">Numero para contato</string>
+</resources>
